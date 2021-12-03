@@ -19,6 +19,9 @@ const Header = () => {
               <button className="book"><a href="#">Book Shipment</a></button>
             </div>
           </nav>
+          <div className="toggler">
+            <i className="fa fa-bars"></i>
+          </div>
         </div>
       </div>
     </header>
